@@ -62,8 +62,8 @@ varieornatus as Damage suppressor protein (Dsup).
 
 - How to build a perfect professor (instruction for beginners)
 
-This work is performed in consistency with the main postulates of tran-
-shumanism and the Earth Planet Transhumanism Party(EPTP). The
+This work is performed in consistency with the main postulates of tran-shumanism
+and the Earth Planet Transhumanism Party(EPTP). The
 main goals of EPTP are protection from unhealthy habits, enlargement
 of life quality and longevity. Using genome sequencing technologies we
 found five pathogenic-like SNPs and five loci with potential for improve-
