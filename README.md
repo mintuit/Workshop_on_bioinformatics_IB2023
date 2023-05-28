@@ -78,7 +78,7 @@ another part of the EPTP - collecting genealogical data about all citi-
 zens. We detected, our patient’s haplogroup is R1a1a, distributed from
 Scandinavia and Central Europe to southern Siberia and South Asia.
 
-- Easy peasy baking switchy
+- Differential analysis of RNA expression during fermentation in yeast
 
 The RNA-Seq technique analyses quickly and cheaply the number of RNAs thus allowing to describe
 of the pool of transcribing genes in a sample. Yeasts such as Saccharomyces cerevisiae could not only
